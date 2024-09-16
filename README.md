@@ -1,67 +1,30 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+哈喽👋，您好！欢迎来到Murph的主页，主要分享以下感兴趣的内容：
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+> 个人投资、货币金融、心理学与宗教哲学、Lifelog、Coding
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+## 关于我
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+> 你可以叫我Murph～ 
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+之所以用这个昵称，是因为至从我知道`墨菲定律`之后，就喜欢上了这个概念所阐述的哲学理念，它是对人世间`无常`的概率解读。
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+随着阅历的增长，我越来越对`无常`这个佛教哲学理念所折服。认同人世的`无常`，并不代表对现实的悲观。相反，认同它，是对现实规律的`接纳`，而这是`接近真实的幸福`的开始。我会在[心理学](https://murph7788.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%A6) 和 [宗教哲学](https://murph7788.github.io/tags/%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6) 系列文章中不断地探讨`无常`、`接纳`、`真实的幸福`等现代心理学与宗教哲学话题。
 
-- 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+我大学专业是物理学，选择这个专业是因为觉得物理很有意思，当时对什么专业好就业之类的并没有什么概念，也没有想过这些事情，只知道自己喜欢。后来开始对就业以及工作有一些概念，就跨考当时最热门的通信专业硕士。
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+但发现自己并不喜欢这个专业的内容。然后就开始看各种书，发现自己很喜欢写代码（动手创造）、心理学、经济学。于是写代码便成了我的职业，而心理学、经济&金融等就成了我的业余兴趣爱好。
 
-- 💬 Ask me about **Reactjs & React-Native**
+我会在自己的[个人投资](https://murph7788.github.io/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84)、[货币金融](https://murph7788.github.io/tags/%E8%B4%A7%E5%B8%81%E9%87%91%E8%9E%8D) 、[心理学](https://murph7788.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%A6) 、[宗教哲学](https://murph7788.github.io/tags/%E5%AE%97%E6%95%99%E5%93%B2%E5%AD%A6) 等系列中分享这些有趣的内容。
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+工作是为了更好的生活，所以我也会分享自己的生活经历感悟、户外旅行等各种生活向的内容。[全部系列内容](https://murph7788.github.io/tags)
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+你可以在以下主要平台找到我:
+<div>
+<a href="https://github.com/murph7788" target="_blank">Github</a>、
+<a href="https://www.youtube.com/@sisyphuse_x" target="_blank">Youtube</a>、
+<a href="https://weibo.com/u/7787064852" target="_blank">微博</a>、
+<a href="https://b23.tv/rpJtJC5" target="_blank">B站</a>、
+<a href="https://www.xiaohongshu.com/user/profile/5b51725711be105fba24122e?xhsshare=CopyLink&appuid=5b51725711be105fba24122e&apptime=1726386490" target="_blank">小红书</a>、
+<a href="/static/images/gongzhonghao.webp" target="_blank">公众号</a>
+</div>
