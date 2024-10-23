@@ -1,14 +1,3 @@
-<div style="overflow:hidden" class="murph7788">
-
-<a href="https://github.com/murph7788/murph7788" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=murph7788&count_private=true&theme=radical" />
-</a>
-
-
-</div>
-
-<br/>
-
 哈喽👋，您好！欢迎来到Murph的主页，主要分享以下感兴趣的内容：
 
 > 个人投资、货币金融、心理学与宗教哲学、Lifelog、Coding
@@ -39,3 +28,18 @@
 <a href="https://www.xiaohongshu.com/user/profile/5b51725711be105fba24122e?xhsshare=CopyLink&appuid=5b51725711be105fba24122e&apptime=1726386490" target="_blank">小红书</a>、
 <a href="/static/images/gongzhonghao.webp" target="_blank">公众号</a>
 </div>
+
+<div style="overflow:hidden" class="murph7788">
+
+<a href="https://github.com/murph7788/murph7788" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=murph7788&count_private=true&theme=radical" />
+</a>
+
+
+</div>
+
+<br/>
+
+<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=8">
+</a>
