@@ -1,3 +1,14 @@
+<div style="overflow:hidden" class="weijunext">
+
+<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=weijunext&count_private=true&theme=radical" />
+</a>
+
+
+</div>
+
+<br/>
+
 哈喽👋，您好！欢迎来到Murph的主页，主要分享以下感兴趣的内容：
 
 > 个人投资、货币金融、心理学与宗教哲学、Lifelog、Coding
