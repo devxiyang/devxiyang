@@ -22,7 +22,7 @@
 你可以在以下主要平台找到我:
 <div>
 <a href="https://github.com/devxiyang" target="_blank">Github</a>、
-<a href="https://www.youtube.com/@devxiyang" target="_blank">Youtube</a>、
+<a href="https://www.youtube.com/@dev.xiyang" target="_blank">Youtube</a>、
 <a href="https://weibo.com/u/7787064852" target="_blank">微博</a>、
 <a href="https://b23.tv/rpJtJC5" target="_blank">B站</a>、
 <a href="https://www.xiaohongshu.com/user/profile/5b51725711be105fba24122e?xhsshare=CopyLink&appuid=5b51725711be105fba24122e&apptime=1726386490" target="_blank">小红书</a>、
