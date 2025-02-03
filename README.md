@@ -2,10 +2,10 @@
 
 ## 🚀 Backend Technology Expert & Full Stack Developer
 
-- 📧 **Email:** [devxiyang@163.com](mailto:devxiyang@163.com)
+- ![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png) **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)
+- ![Xiaohongshu](https://img.icons8.com/color/48/000000/xiaohongshu.png) **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
 - 🌐 **Personal Website:** [devxiyang.com](https://devxiyang.com)
-- 🐦 **X (Twitter):** [Your X Account](https://twitter.com/devxiyang)
-- 📷 **Xiaohongshu:** [Your Xiaohongshu Account](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
+- 📧 **Email:** [devxiyang@163.com](mailto:devxiyang@163.com)
 
 ---
 
@@ -65,9 +65,9 @@ Experienced Backend Technology Expert with a strong background in building AI pl
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devxiyang&show_icons=true&theme=radical)
 
 ---
 
 ### 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxiyang&layout=compact&theme=radical)
