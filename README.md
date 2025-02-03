@@ -2,10 +2,10 @@
 
 ## 🚀 Backend Technology Expert & Full Stack Developer
 
-- 🐦 **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)
-- 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
-- 🌐 **Personal Website:** [devxiyang.com](https://devxiyang.com)
-- 📧 **Email:** [devxiyang@163.com](mailto:devxiyang@163.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/devxiyang)
+[![Xiaohongshu Badge](https://img.shields.io/badge/-Xiaohongshu-FF0000?style=flat&logo=Xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://devxiyang.com)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:devxiyang@163.com)
 
 ---
 
