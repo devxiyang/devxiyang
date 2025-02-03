@@ -58,6 +58,10 @@ Experienced Backend Technology Expert with a strong background in building AI pl
 #### Wacai
 - **Position:** Backend Engineer
 - **Duration:** 2017 - 2018
-- **Description:** 
-  - [Add specific achievements and responsibilities here]
+- **Description:**
+  - Developed and maintained scalable backend services to support financial applications.
+  - Optimized database queries to improve application performance and reduce latency.
+  - Collaborated with front-end developers to integrate user-facing elements with server-side logic.
+  - Implemented security best practices to protect sensitive financial data.
+  - Participated in code reviews and contributed to improving coding standards and practices.
 - **Company Description:** Wacai is a financial technology company offering personal finance management tools.
