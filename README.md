@@ -22,6 +22,13 @@ Experienced Backend Technology Expert with a strong background in building AI pl
 
 ---
 
+### 🎯 Projects
+- **Resume Maker** ([resumemaker.cc](https://resumemaker.cc)): A modern resume builder platform.
+- **AI Social Cover** ([aisocialcover.com](https://aisocialcover.com)) [Coming Soon]: AI-powered social media cover generator.
+- **RemoteOK** ([remoteok.online](https://remoteok.online)) [Coming Soon]: Remote job platform.
+
+---
+
 ### 💼 Work Experience
 
 #### Mihoyo
