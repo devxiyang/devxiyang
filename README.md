@@ -6,6 +6,7 @@
 - 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
 - 🌐 **Website:** [devxiyang.com](https://devxiyang.com)
 - 📧 **Email:** [devxiyang@163.com](mailto:devxiyang@163.com)
+- 🔗 **Linkedin** [devxiyang](https://www.linkedin.com/in/devxiyang)
 
 ---
 
