@@ -2,10 +2,10 @@
 
 ## 🚀 Backend Technology Expert & Full Stack Developer
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/devxiyang)
-[![Xiaohongshu Badge](https://img.shields.io/badge/-Xiaohongshu-FF0000?style=flat&logo=Xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
-[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://devxiyang.com)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:devxiyang@163.com)
+- 🐦 **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)
+- 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
+- 🌐 **Website:** [devxiyang.com](https://devxiyang.com)
+- 📧 **Email:** [devxiyang@163.com](mailto:devxiyang@163.com)
 
 ---
 
@@ -65,3 +65,13 @@ Experienced Backend Technology Expert with a strong background in building AI pl
   - Implemented security best practices to protect sensitive financial data.
   - Participated in code reviews and contributed to improving coding standards and practices.
 - **Company Description:** Wacai is a financial technology company offering personal finance management tools.
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devxiyang&show_icons=true&theme=radical)
+
+---
+
+### 🌟 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxiyang&layout=compact&theme=radical)
