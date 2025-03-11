@@ -5,7 +5,7 @@
 - 🐦 **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)
 - 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
 - 🌐 **Website:** [devxiyang.com](https://devxiyang.com)
-- 📧 **Email:** [devxiyang@163.com](mailto:devxiyang@163.com)
+- 📧 **Email:** [devxiyang@gmail.com](mailto:devxiyang@gmail.com)
 - 🔗 **Linkedin** [devxiyang](https://www.linkedin.com/in/devxiyang)
 
 ---
@@ -24,9 +24,9 @@ Experienced Backend Technology Expert with a strong background in building AI pl
 ---
 
 ### 🎯 Projects
+- **AI Social Cover** ([aipostify.com](https://aipostify.com)) [Coming Soon]: AI-powered social media cover generator.
+- **Moodie Movie** ([moodiemovie.top](https://moodiemovie.top)): MoodieMovie - Find Movies Based on Your Mood.
 - **Resume Maker** ([resumemake.dev](https://resumemake.dev)): A modern resume builder platform for developer.
-- **AI Social Cover** ([aisocialcover.com](https://aisocialcover.com)) [Coming Soon]: AI-powered social media cover generator.
-- **RemoteOK** ([remoteok.online](https://remoteok.online)) [Coming Soon]: Remote job platform.
 
 ---
 
