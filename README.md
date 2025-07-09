@@ -1,4 +1,4 @@
-# 👋 Xiyang Hong
+# 👋 Xiyang
 
 ## 🚀 Senior Software Engineer & Full Stack Developer
 
