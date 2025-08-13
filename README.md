@@ -2,11 +2,11 @@
 
 ## 🚀 Senior Software Engineer & Full Stack Developer
 
-- 🐦 **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)
-- 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)
-- 🌐 **Website:** [devxiyang.com](https://devxiyang.com)
-- 📧 **Email:** [devxiyang@gmail.com](mailto:devxiyang@gmail.com)
-- 🔗 **Linkedin** [devxiyang](https://www.linkedin.com/in/devxiyang)
+- 🐦 **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)  
+- 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)  
+- 🌐 **Website:** [devxiyang.com](https://devxiyang.com)  
+- 📧 **Email:** [devxiyang@gmail.com](mailto:devxiyang@gmail.com)  
+- 🔗 **Linkedin:** [devxiyang](https://www.linkedin.com/in/devxiyang)  
 
 ---
 
@@ -16,23 +16,29 @@ Experienced Backend Technology Expert with a strong background in building AI pl
 ---
 
 ### 🛠️ Skills
-- **Backend Development:** AI platforms, infrastructure, and scalable solutions.
-- **Full Stack Development:** Next.js, Tailwind CSS, Shadcn.
-- **AI & Machine Learning:** Large Language Models (LLM), AI-Generated Content (AIGC).
-- **Team Leadership:** Leading cross-functional teams to deliver high-quality solutions.
+- **Backend Development:** AI platforms, infrastructure, and scalable solutions.  
+- **Full Stack Development:** Next.js, Tailwind CSS, Shadcn.  
+- **AI & Machine Learning:** Large Language Models (LLM), AI-Generated Content (AIGC).  
+- **Team Leadership:** Leading cross-functional teams to deliver high-quality solutions.  
 
 ---
 
 ### 🎯 Projects
-- **AI Social Cover** ([aipostify.com](https://aipostify.com)) [Coming Soon]: AI-powered social media cover generator.
-- **Moodie Movie** ([moodiemovie.top](https://moodiemovie.top)): MoodieMovie - Find Movies Based on Your Mood.
-- **Resume Maker** ([resumemake.dev](https://resumemake.dev)): A modern resume builder platform for developer.
+- **AI Carousels Maker** ([aicarousels.pro](https://www.aicarousels.pro)): Generate engaging AI-powered carousel posts for social media.  
+- **Change Aspect Ratio of Image** ([changeimageaspectratio.com](https://changeimageaspectratio.com)): Easily adjust an image's aspect ratio online.  
+- **Merge Images** ([mergeimages.co](https://mergeimages.co)): Combine multiple images into one seamlessly.  
+- **Square Image** ([squareimages.co](https://squareimages.co)): Convert any image into a perfect square.  
+- **Circle Crop Photo** ([circlecropphoto.com](https://circlecropphoto.com)): Crop your photo into a perfect circle shape.  
+- **Crop Image** ([cropimages.co](https://cropimages.co)): Crop images online with precision and ease.  
+- **Make Image Black and White** ([makeimagesblackandwhite.com](https://makeimagesblackandwhite.com)): Convert color images to black and white.  
+- **Mirror Image** ([mirroranimage.com](https://mirroranimage.com)): Flip and mirror images instantly.  
+- **Compress Image** ([compressimagex.com](https://compressimagex.com)): Reduce image file size without losing quality.  
 
 ---
 
 <!-- snake contribution -->
 <picture>
-  scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
-  scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
