@@ -1,8 +1,8 @@
-# 👋 Dev Xiyang
+# 👋 Neo Hung
 
 ## 🚀 Senior Software Engineer & Full Stack Developer
 
-- 🐦 **Twitter:** [Dev Xiyang](https://twitter.com/devxiyang)  
+- 🐦 **Twitter:** [Neo](https://twitter.com/im_neo1992)  
 - 📷 **Xiaohongshu:** [devxiyang](https://www.xiaohongshu.com/user/profile/6229828600000000100057ea)  
 - 🌐 **Website:** [devxiyang.com](https://devxiyang.com)  
 - 📧 **Email:** [devxiyang@gmail.com](mailto:devxiyang@gmail.com)  
